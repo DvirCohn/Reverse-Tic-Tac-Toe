@@ -1,0 +1,14 @@
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\ReversedTickTackToe.exe.config
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\ReversedTickTackToe.exe
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\ReversedTickTackToe.pdb
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\Board.exe
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\WinFormUI.exe
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\Board.pdb
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\Board.exe.config
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\WinFormUI.pdb
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\bin\Debug\WinFormUI.exe.config
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\obj\Debug\ReversedTickTackToe.csproj.AssemblyReference.cache
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\obj\Debug\ReversedTickTackToe.csproj.CoreCompileInputs.cache
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\obj\Debug\ReversedTickTackToe.csproj.CopyComplete
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\obj\Debug\ReversedTickTackToe.exe
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\ReversedTickTackToe\obj\Debug\ReversedTickTackToe.pdb

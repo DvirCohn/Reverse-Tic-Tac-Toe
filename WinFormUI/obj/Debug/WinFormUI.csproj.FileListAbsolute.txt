@@ -1,0 +1,7 @@
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\dvirc\Desktop\computer_science\thrid_year\semester b\DNET\B23 Ex05 ShaharFatran 318867272 DvirCohen 207171232\WinFormUI\obj\Debug\WinFormUI.pdb
